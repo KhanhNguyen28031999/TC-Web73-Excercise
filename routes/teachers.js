@@ -8,4 +8,6 @@ teacherRouter.get('/', (req,res) => {
     res.json(DATA);
 });
 
+
 module.exports = {teacherRouter};
+
