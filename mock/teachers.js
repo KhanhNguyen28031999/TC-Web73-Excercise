@@ -4,4 +4,4 @@ const Teachers = [
 	{name: "Charlie", age: 41},
 ];
 
-module.exports ={Teachers}
+module.exports ={Teachers};
